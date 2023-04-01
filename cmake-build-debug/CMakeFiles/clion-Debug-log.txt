@@ -1,0 +1,4 @@
+/home/shabash_/Apps/Clion/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/shabash_/Apps/Clion/bin/ninja/linux/x64/ninja -G Ninja -S /home/shabash_/Documents/nstu/graph -B /home/shabash_/Documents/nstu/graph/cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/shabash_/Documents/nstu/graph/cmake-build-debug
